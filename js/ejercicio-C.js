@@ -1,4 +1,4 @@
-/* console.log( '\n\n---------------- Ejercicio "C" -------------------\n\n' );
+console.log( '\n\n---------------- Ejercicio "C" -------------------\n\n' );
 
 gato1 = 1;
 gato2 = 2;
@@ -35,4 +35,3 @@ for( i = 1; i <= cantidadDeGatos; i++ ){
 
     }
 }
- */
