@@ -1,4 +1,4 @@
-/* console.log( '\n\n---------------- Ejercicio "B" -------------------\n\n' );
+console.log( '\n\n---------------- Ejercicio "B" -------------------\n\n' );
 
 var cantidadDePasos = prompt( 'Ingrese la cantidad de pasos');
 var huellasArray = [];
@@ -15,4 +15,4 @@ for( i = 1; i <= cantidadDeGatos; i++ ){
 
    console.log( 'Gato #' + i + ': ' + '🐈' +  huellasArray );
 
-} */
+}
